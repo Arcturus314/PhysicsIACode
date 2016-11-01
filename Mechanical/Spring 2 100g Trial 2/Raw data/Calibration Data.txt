@@ -1,0 +1,23 @@
+Pot A: 509
+Pot B: 503
+
+Mass A: 100.1g
+Mass B: 101.7g
+
+Mass A Rod: 104.3g
+Mass B Rod: 102.2g
+
+Positions from Center of Rotation (cm)
+1.5
+11.5
+21.5
+31.5
+41.5
+51.5
+61.5
+71.5
+81.5
+91.5
+
+
+

@@ -1,0 +1,5 @@
+Pot A: 508
+Pot B: 509
+
+Mass A: 100.1g
+Mass B: 101.7g

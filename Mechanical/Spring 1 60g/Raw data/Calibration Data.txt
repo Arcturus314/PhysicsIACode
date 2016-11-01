@@ -1,0 +1,5 @@
+Potentiometer A start: 508
+Potentiometer B start: 511
+
+Potentiometer A mass: 60.0g
+Potentiometer B mass: 61.1g

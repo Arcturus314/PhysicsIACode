@@ -1,0 +1,5 @@
+Not 100% out of phase
+	hard to match with sin graph
+Assumption that all start at 0 displacement
+
+Error on x axis = 1 period, is why I need to calc frequency

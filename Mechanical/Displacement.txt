@@ -1,0 +1,3 @@
+11.5cm 25 cm from center of rotation so angle = atan(11.5/25)
+
+Bar is 99cm between center of rotation and hangar
